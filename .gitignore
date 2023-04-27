@@ -1,0 +1,5 @@
+# aws secrets
+**/secrets.h
+
+# dependencies
+node_modules/
